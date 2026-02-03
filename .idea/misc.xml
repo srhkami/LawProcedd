@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (LawProcess)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="uv (LawProcess)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (law-process)" project-jdk-type="Python SDK" />
 </project>
